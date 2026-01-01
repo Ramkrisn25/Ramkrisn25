@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on<br>Full-stack web applications using React, Node.js, Express, and SQL, along with AI-focused technical content and documentation.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, AI-powered web apps, full-stack systems, and data-driven solutions that solve real-world problems.<br><br>🤝 I’m looking for help with<br>Advanced system design, scalable backend architecture, and production-level deployment strategies.<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, Generative AI, cloud fundamentals (AWS), and performance optimization techniques.
 
 
